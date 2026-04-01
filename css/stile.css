@@ -68,6 +68,9 @@ section {
 	padding:10px;
 	background-image:url(../img/grigio_scuro.jpg);
 	opacity:0.9;
+	min-height: 100%;
+  	background-position: center;
+ 	background-size: cover;
 	color:white;
 	font-family:Helvetica, Arial, Verdana, sans-serif;
 	font-size:95%;
